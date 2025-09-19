@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello World!" << endl;
+
+    cout <<"Prueba de cambios en Qt";
     return 0;
 }
